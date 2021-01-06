@@ -12,7 +12,7 @@
     "scripts/system-script-2.js"
   ],
   "esmodules": [
-    "scripts/system-module-1.mjs"
+    "scripts/system-module-1.js"
   ],
   "styles": [
     "styles/system-styles-1.css",
