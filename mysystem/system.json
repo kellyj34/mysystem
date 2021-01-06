@@ -6,7 +6,7 @@
   "compatibleCoreVersion": "0.7.9",
   "templateVersion": 2,
   "author": "John Doe",
-  ]
+  ],
   "packs": [
     {
       "name": "monsters",
