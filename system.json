@@ -7,10 +7,6 @@
   "compatibleCoreVersion": "0.7.9",
   "templateVersion": 2,
   "author": "DBP",
-  "scripts": [
-    "scripts/system-script-1.js",
-    "scripts/system-script-2.js"
-  ],
   "esmodules": ["module/mysystem.js"],
   "styles": ["css/mysystem.css"],
   "packs": [],
