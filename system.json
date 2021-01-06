@@ -7,8 +7,8 @@
   "compatibleCoreVersion": "0.7.9",
   "templateVersion": 2,
   "author": "DBP",
-  "esmodules": ["module/mysystem.js"],
-  "styles": ["css/mysystem.css"],
+  "esmodules": [],
+  "styles": [],
   "packs": [],
   "languages": [
     {
