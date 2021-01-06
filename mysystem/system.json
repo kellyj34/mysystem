@@ -4,6 +4,7 @@
   "description": "Many details here.",
   "version": "1.0.0",
   "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
   "templateVersion": 2,
   "author": "DBP",
   "scripts": [
