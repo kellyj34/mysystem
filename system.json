@@ -50,6 +50,6 @@
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
   "url": "https://github.com/kellyj34/mysystem/blob/main/README.md",
-  "manifest": "https://github.com/kellyj34/mysystem/blob/main/mysystem/system.json",
+  "manifest": "https://github.com/kellyj34/mysystem/blob/main/system.json",
   "download": "https://github.com/kellyj34/mysystem/archive/main.zip"
 }
